@@ -1,0 +1,22 @@
+@page "{restaurantId:int}"
+
+@model AspDotnetCore.Pages.Restaurants.DetailModel
+@{
+    ViewData["Title"] = "Detail";
+}
+
+
+<h2>@Model.Restaurant.Name</h2>
+<div>
+    Id: @Model.Restaurant.Id
+</div>
+<div>
+    Loaction: @Model.Restaurant.Location
+</div>
+<div>
+    Cuisine: @Model.Restaurant.Cuisine
+</div>
+
+<a class="btn btn-info" role="button" asp-page="./List">All Restaurants</a>
+
+

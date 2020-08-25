@@ -1,0 +1,12 @@
+E:\Dotnet_Project\DataClassLibrary\bin\Debug\netstandard2.0\DataClassLibrary.deps.json
+E:\Dotnet_Project\DataClassLibrary\bin\Debug\netstandard2.0\DataClassLibrary.dll
+E:\Dotnet_Project\DataClassLibrary\bin\Debug\netstandard2.0\DataClassLibrary.pdb
+E:\Dotnet_Project\DataClassLibrary\bin\Debug\netstandard2.0\CoreClassLibrary.dll
+E:\Dotnet_Project\DataClassLibrary\bin\Debug\netstandard2.0\CoreClassLibrary.pdb
+E:\Dotnet_Project\DataClassLibrary\obj\Debug\netstandard2.0\DataClassLibrary.csprojAssemblyReference.cache
+E:\Dotnet_Project\DataClassLibrary\obj\Debug\netstandard2.0\DataClassLibrary.AssemblyInfoInputs.cache
+E:\Dotnet_Project\DataClassLibrary\obj\Debug\netstandard2.0\DataClassLibrary.AssemblyInfo.cs
+E:\Dotnet_Project\DataClassLibrary\obj\Debug\netstandard2.0\DataClassLibrary.csproj.CoreCompileInputs.cache
+E:\Dotnet_Project\DataClassLibrary\obj\Debug\netstandard2.0\DataClassLibrary.csproj.CopyComplete
+E:\Dotnet_Project\DataClassLibrary\obj\Debug\netstandard2.0\DataClassLibrary.dll
+E:\Dotnet_Project\DataClassLibrary\obj\Debug\netstandard2.0\DataClassLibrary.pdb

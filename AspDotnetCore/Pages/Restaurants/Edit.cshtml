@@ -1,0 +1,24 @@
+@page "{restaurantId:int}"
+@model AspDotnetCore.Pages.Restaurants.EditModel
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Editing @Model.Restaurant.Name</h1>
+
+<form method="post">
+    <input type="hidden" asp-for="Restaurant.Id"/>
+    <div class="form-group" >
+        <label asp-for="Restaurant.Name"></label>
+        <input asp-for="Restaurant.Name" class="from-control" />
+    </div>
+     <label asp-for="Restaurant.Location"></label>
+        <input asp-for="Restaurant.Location" class="from-control" />
+    </div>
+     <label asp-for="Restaurant.Cuisine"></label>
+     <select  asp-for="Restaurant.Cuisine" asp-items="Model.Cuisines" class="form-control">
+     </select>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>

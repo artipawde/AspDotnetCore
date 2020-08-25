@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "12HereKVFR4OrfqVDhL+RhqbBAaJRjZ59KgYBnUaca3po91mo3XsIzkHGlv0Cdl6b3fCm7HDMGi84pZgdh7bmg==",
+  "success": true,
+  "projectFilePath": "E:\\Dotnet_Project\\DataClassLibrary\\DataClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arti Pawde\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Arti Pawde\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
