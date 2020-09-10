@@ -1,6 +1,6 @@
 namespace CoreClassLibrary
 {
-    public enum CuisineType
+public enum CuisineType
     {
         None,
         Chainese,

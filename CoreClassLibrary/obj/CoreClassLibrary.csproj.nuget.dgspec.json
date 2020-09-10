@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Dotnet_Project\\CoreClassLibrary\\CoreClassLibrary.csproj": {}
+    "e:\\Dotnet_Project\\CoreClassLibrary\\CoreClassLibrary.csproj": {}
   },
   "projects": {
-    "E:\\Dotnet_Project\\CoreClassLibrary\\CoreClassLibrary.csproj": {
+    "e:\\Dotnet_Project\\CoreClassLibrary\\CoreClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Dotnet_Project\\CoreClassLibrary\\CoreClassLibrary.csproj",
+        "projectUniqueName": "e:\\Dotnet_Project\\CoreClassLibrary\\CoreClassLibrary.csproj",
         "projectName": "CoreClassLibrary",
-        "projectPath": "E:\\Dotnet_Project\\CoreClassLibrary\\CoreClassLibrary.csproj",
+        "projectPath": "e:\\Dotnet_Project\\CoreClassLibrary\\CoreClassLibrary.csproj",
         "packagesPath": "C:\\Users\\Arti Pawde\\.nuget\\packages\\",
-        "outputPath": "E:\\Dotnet_Project\\CoreClassLibrary\\obj\\",
+        "outputPath": "e:\\Dotnet_Project\\CoreClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Arti Pawde\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Arti Pawde\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -41,6 +43,10 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.7.0, )"
             }
           },
           "imports": [
@@ -53,7 +59,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

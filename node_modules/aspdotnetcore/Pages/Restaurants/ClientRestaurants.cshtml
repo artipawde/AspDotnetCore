@@ -1,0 +1,44 @@
+﻿@page
+@model AspDotnetCore.Pages.Restaurants.ClientRestaurantsModel
+@{
+    ViewData["Title"] = "ClientRestaurants";
+}
+
+<h2>Client Restaurants</h2>
+
+@*<table class="table" id="restaurants"></table>*@
+
+@section Scripts{
+    <script>
+        $(function () {
+            $.ajax("/api/Restaurants/",
+                { method: "get" })
+                .then(function (response) {
+                    console.dir(response);
+                })
+        })
+    </script>
+
+    @*<script>
+            $(function () {
+                var cuisines = ["Unknown", "Mexican", "Italian", "Indian"]
+                $.ajax("/api/Restaurants/",
+                    { method: "get" })
+                    .then(function (response) {
+                        $("#restaurants").dataTable({
+                            data: response,
+                            columns: [
+                                { "data": "name" },
+                                { "data": "location" },
+                                {
+                                    "data": "cuisine", "render": function (data) {
+                                        return cuisines[data];
+                                    }
+                                }
+                            ]
+                        });
+                    });
+            });
+        </script>*@
+
+}

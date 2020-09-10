@@ -4,6 +4,6 @@ E:\Dotnet_Project\CoreClassLibrary\bin\Debug\netstandard2.0\CoreClassLibrary.pdb
 E:\Dotnet_Project\CoreClassLibrary\obj\Debug\netstandard2.0\CoreClassLibrary.csprojAssemblyReference.cache
 E:\Dotnet_Project\CoreClassLibrary\obj\Debug\netstandard2.0\CoreClassLibrary.AssemblyInfoInputs.cache
 E:\Dotnet_Project\CoreClassLibrary\obj\Debug\netstandard2.0\CoreClassLibrary.AssemblyInfo.cs
-E:\Dotnet_Project\CoreClassLibrary\obj\Debug\netstandard2.0\CoreClassLibrary.csproj.CoreCompileInputs.cache
 E:\Dotnet_Project\CoreClassLibrary\obj\Debug\netstandard2.0\CoreClassLibrary.dll
 E:\Dotnet_Project\CoreClassLibrary\obj\Debug\netstandard2.0\CoreClassLibrary.pdb
+E:\Dotnet_Project\CoreClassLibrary\obj\Debug\netstandard2.0\CoreClassLibrary.csproj.CoreCompileInputs.cache

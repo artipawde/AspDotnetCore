@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "lhu1cztO/wVveH3nMET6JHoIXASjI+BvKvhnnfuppP2e61bTrxoPpLrHGBmFtb/z+WM8VI0XSt739BJ03pdfpA==",
+  "dgSpecHash": "EkI79zEdTgKYnGCtkktWUlgYBYYlyGXh2fq95MmcEX1ON7y+nL3YYv0x+Yaie0AV8Y842id+tdlaK34FwTdA6g==",
   "success": true,
-  "projectFilePath": "E:\\Dotnet_Project\\CoreClassLibrary\\CoreClassLibrary.csproj",
+  "projectFilePath": "e:\\Dotnet_Project\\CoreClassLibrary\\CoreClassLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Arti Pawde\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Arti Pawde\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Arti Pawde\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Arti Pawde\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }

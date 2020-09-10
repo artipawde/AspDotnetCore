@@ -1,0 +1,47 @@
+@page "{restaurantId:int}"
+@model AspDotnetCore.Pages.Restaurants.DeleteModel
+@{
+    ViewData["Title"] = "Delete";
+}
+    <h2>Delete</h2>
+    <div class="alert alert-danger">
+    Are You Sure you want to Delete @Model.Restaurant.Name?
+    </div>
+    <form method="POST">
+    <button type="submit" class="btn btn-danger">Yes</button>
+    <a asp-page="List" class="btn btn-info">Cancel</a>       
+    </form>
+
+@* 
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width"/>
+        <title>Delete</title>
+    </head>
+    <body>
+        <h2>Delete</h2>
+        <div class="alert alert-danger">
+            Are You Sure you want to Delete @Model.Restaurant.Name?
+        </div>
+        <form method="POST">
+            <button type="submit" class="btn btn-danger">Yes</button>
+            <a asp-page="List" class="btn btn-info">Cancel</a>       
+        </form>
+    </body>
+</html>  *@
+
+
+@* 
+<h1>Deleting @Model.Restaurant.Name</h1>
+
+<div class="alert alert-danger">
+       Are you sure want to delete @Model.Restaurant.Name
+</div>
+
+<form method="post">
+    <input type="hidden" asp-for="Restaurant.Id"/>
+    <button type="submit" class="btn btn-danger">Save</button>
+    <a asp-page="List" class="btn btn-info">Cancel</a>
+</form> *@
